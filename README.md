@@ -1,2 +1,2 @@
 # Building-a-Local-Private-Question-Answering-System-by-Integrating-RAG-with-the-Local-DeepSeek-Model
-Building a Local Private Question-Answering System by Integrating RAG (Retrieval-Augmented Generation) with the Local DeepSeek Model.By the way,it's my college homework.
+This program can integrate RAG into the locally deployed DeepSeek R1 model, enabling DeepSeek to retrieve content from private databases. It is suitable for data retrieval, analysis, and question-answering systems that require privacy protection. It should be noted that this is the first version, and you need to deploy the local DeepSeek model through Ollama by yourself.
